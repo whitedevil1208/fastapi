@@ -8,4 +8,4 @@ python-multipart
 python-dotenv
 email-validator
 fastapi-users[sqlalchemy,oauth2]
-asyncpg
+psycopg2-binary
